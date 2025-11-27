@@ -15,3 +15,9 @@
 ## Unidad 3 y 4 (Manipulación y visualización de datos)
 
 https://colab.research.google.com/drive/1SbGwCaSbvFc2ZORjyneSME4GpiAJnB8h?usp=sharing
+
+## Unidad 5 y 6 (Machine Learning)
+
+https://colab.research.google.com/drive/1P_YL0K1KciAjX6f-M_Mq5gp1Xz-DyoDU?usp=sharing
+
+https://colab.research.google.com/drive/1rNnftSgw_D4plqZfC2EiXgZGS7CXSncl?usp=sharing
