@@ -2,6 +2,18 @@
 
 ![FGR](https://upload.wikimedia.org/wikipedia/commons/6/60/Logo_de_la_FGR_México.png)
 
+## IMPORTANTE
+
+**Para poder recibir su constancia, favor de realizar la encuesta de evaluación y la evaluación final**
+
+> Encuesta de satisfacción
+
+https://forms.gle/mPSKCGHbkXmtu3U3A
+
+> Evaluación final
+
+https://forms.gle/Vuhsr9CuwNAkJz4y9
+
 ## Sesión 1
 
 ### Unidad 1
