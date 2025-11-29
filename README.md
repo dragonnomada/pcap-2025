@@ -30,7 +30,7 @@ https://colab.research.google.com/drive/1rNnftSgw_D4plqZfC2EiXgZGS7CXSncl?usp=sh
 
 ## Sesión 4
 
-### Unidad 7 y 8 (Machine Learning continuación)
+### Unidad 5 y 6 (Machine Learning continuación)
 
 https://colab.research.google.com/drive/1gARjhYPoThMe-eERI9FsUD4X-TxL_UWc?usp=sharing
 
@@ -38,7 +38,21 @@ https://colab.research.google.com/drive/1ryqugyjT5HCc6PY5wue1SvBGELDQKvFd?usp=sh
 
 ## Sesión 5
 
-## Unidad 7 y 8 (Machine learning continuación y redes neuronales)
+## Unidad 6 y 7 (Machine learning continuación y redes neuronales)
 
 https://colab.research.google.com/drive/1i7flPq04ZHOOKoR6XZ0j2_Ntv8bCi3Fz?usp=sharing
+
+## Unidad 8 (Análisis de imágenes)
+
+https://colab.research.google.com/drive/1gIiGEsPOXwudpP9WmuB-26Sajbrv-TFd?usp=sharing
+
+## Unidad 9 (Análisis de textos) 
+
+https://colab.research.google.com/drive/13VPJjgDOX_ETeJVcDr_8-BDaB-USq7Xp?usp=sharing
+
+## Unidad 10 (Desarrollo web)
+
+https://colab.research.google.com/drive/16r_8XEVgwE_oR5vhvLNGx34nbn9SpUBq?usp=sharing
+
+
 
